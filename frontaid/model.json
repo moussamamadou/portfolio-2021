@@ -1,23 +1,69 @@
 {
-  ":name": "FrontAid CMS Example Model",
-  ":description": "This is a simple example of a FrontAid CMS model. You can change and extend it according to your needs, for example add new fields or restructure it. You can edit this file by cloning this repository and update it with your local editor and push it back into this Git repository. ",
-  "custom-field": {
-    ":description": "This example text is used as a description.",
-    ":type": "line"
-  },
-  "custom-object": {
-    "custom-line": {
-      ":type": "line"
+  ":name": "Portfolio MMB",
+  ":description": "This is a portfolio made with FrontAid CMS + Next.js",  
+  ":locales": [
+    "en",
+    "fr"
+  ],
+  "seo": {
+    ":name": "SEO Section",
+    "title": {":type": "line"},
+    "description": {":type": "text"},
+    "keywords": {
+      ":items": {
+        ":name": "Keywords",
+        "keyword": {":type": "line"}
+      }
     },
-    "custom-text": {
-      ":type": "text"
-    }
+    "image": {":type": "line"}
   },
-  "custom-list": {
-    ":items": {
-      "custom-list-item": {
-        ":type": "line"
+  "hero": {
+    ":name": "Hero Section",
+    "textTop":{":type": "line", ":richtext":true},
+    "textMiddle":{":type": "line", ":richtext":true},
+    "textBottom":{":type": "line", ":richtext":true}
+  },
+  "work": {
+    ":name": "Work Section",
+    "title": {":type": "line"},
+    "projects": {
+      ":items": {
+        ":name": "Projects",
+        "title": {":type": "line"},
+        "text": {":type": "text"},        
+        "technologies": {
+          ":items": {
+            ":name": "Tech",
+            "text": {":type": "line"}
+          }
+        },
+        "links": {
+          ":items": {
+              ":name": "Links",
+              "text": {":type": "line"},
+              "url": {":type": "line"},
+              "icon": {":type": "line"}
+          }
+        },
+        "image": {":type":"line"}
+      }
+    }      
+  },
+  "about": {
+    ":name": "About Section",
+    "title": {":type": "line"},
+    "text": {":type":"text", ":richtext": true},
+    "technologies": {
+      ":items": {
+        ":name": "Techs",
+        "text": {":type": "line"}
       }
     }
-  }
+  },
+  "contact": {
+    ":name": "Contact Section",
+    "title": {":type": "line"},
+    "text": {":type":"text",":richtext": true},
+    "mail":{":type": "line"}
+  }  
 }
