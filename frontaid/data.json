@@ -21,16 +21,91 @@
           "keyword": "developer"
         }
       ]
+    },
+    "hero": {
+      "textTop": "I'm <strong>Moussa </strong>a",
+      "textMiddle": "<strong>Front-end Developer</strong>",
+      "textBottom": "And <strong>JS Lover</strong>"
+    },
+    "work": {
+      "title": "Works",
+      "projects": [
+        {
+          "text": "This is e-commerce website I built with Next.js, Strapi and Snipcart. The front-end is done with the React Framework Next.js. The back-end is done with the headless CMS Strapi. Snippcart was use to add a shopping cart and e-commerce fonctionnality",
+          "title": "Audiophile e-commerce",
+          "technologies": [
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "Tailwindcss"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            }
+          ]
+        }
+      ]
     }
   },
   "fr": {
     "seo": {
       "keywords": [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "keyword": "freelance"
+        },
+        {
+          "keyword": "react.js"
+        },
+        {
+          "keyword": "portfolio"
+        },
+        {
+          "keyword": "javascript"
+        },
+        {
+          "keyword": "développeur"
+        }
+      ],
+      "title": "Moussa Mamadou |  Développeur Front-End",
+      "description": "Je suis un développeur front-end, un fanatique du javascript et un magicien du React.js",
+      "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632430999/Portfolio/moussamamadou-meta-image_kbgzmx.png"
+    },
+    "hero": {
+      "textTop": "Je suis <strong>Moussa</strong>",
+      "textMiddle": "Développeur Front-End",
+      "textBottom": "Et <strong>Féru de JS </strong>"
+    },
+    "work": {
+      "title": "Projets",
+      "projects": [
+        {
+          "text": "Il s'agit d'un site e-commerce que j'ai créé avec Next.js, Strapi et Snipcart. Le front-end est fait avec le Framework React, Next.js. Le back-end est réalisé avec le Headless-CMS Strapi. Snippcart a été utilisé pour ajouter un panier et des fonctionnalités d'e-commerce.",
+          "title": "Audiophile e-commerce",
+          "technologies": [
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "Tailwindcss"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            }
+          ]
+        }
       ]
     }
   }
