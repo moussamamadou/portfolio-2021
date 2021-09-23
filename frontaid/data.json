@@ -2,7 +2,36 @@
   "en": {
     "seo": {
       "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632430999/Portfolio/moussamamadou-meta-image_kbgzmx.png",
-      "title": "Moussa Mamadou | Front-End Developer"
+      "title": "Moussa Mamadou | Front-End Developer",
+      "description": "I'm a front-end developer, a javascript fanboy and a React.js wizard.",
+      "keywords": [
+        {
+          "keyword": "freelance"
+        },
+        {
+          "keyword": "react.js"
+        },
+        {
+          "keyword": "portfolio"
+        },
+        {
+          "keyword": "javascript"
+        },
+        {
+          "keyword": "developer"
+        }
+      ]
+    }
+  },
+  "fr": {
+    "seo": {
+      "keywords": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
     }
   }
 }
