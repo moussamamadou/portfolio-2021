@@ -12,7 +12,8 @@
         "keyword": { ":type": "line" }
       }
     },
-    "image": { ":type": "line" }
+    "image": { ":type": "line" },
+    "url": { ":type": "line" }
   },
   "nav": {
     ":name": "Nav Section",
