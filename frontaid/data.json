@@ -77,19 +77,19 @@
           "text": "This is e-commerce website I built with Next.js, Strapi and Snipcart. The front-end is done with the React Framework Next.js. The back-end is done with the headless CMS Strapi. Snippcart was use to add a shopping cart and e-commerce fonctionnality",
           "technologies": [
             {
-              "text": "Snipcart"
-            },
-            {
-              "text": "Strapi"
-            },
-            {
-              "text": "Tailwindcss"
+              "text": "React"
             },
             {
               "text": "Next.js"
             },
             {
-              "text": "React"
+              "text": "Strapi"
+            },
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Tailwindcss"
             }
           ],
           "links": [
@@ -268,19 +268,19 @@
           "text": "Il s'agit d'un site e-commerce que j'ai créé avec Next.js, Strapi et Snipcart. Le front-end est fait avec le Framework React, Next.js. Le back-end est réalisé avec le Headless-CMS Strapi. Snippcart a été utilisé pour ajouter un panier et des fonctionnalités d'e-commerce.",
           "technologies": [
             {
-              "text": "Snipcart"
-            },
-            {
-              "text": "Strapi"
-            },
-            {
-              "text": "Tailwindcss"
+              "text": "React"
             },
             {
               "text": "Next.js"
             },
             {
-              "text": "React"
+              "text": "Strapi"
+            },
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Tailwindcss"
             }
           ],
           "links": [
