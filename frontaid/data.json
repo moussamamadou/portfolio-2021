@@ -31,6 +31,78 @@
       "title": "Works",
       "projects": [
         {
+          "text": "What if Google Keep and Trello merged ?  Well µTrello will be born.\nµTrello is a very tiny chrome extension task management app for your personnal and private usage.",
+          "title": "Microtrello",
+          "technologies": [
+            {
+              "text": "Typescript"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React-beautiful-dnd"
+            },
+            {
+              "text": "Dexie.js"
+            },
+            {
+              "text": "TailwindCSS"
+            },
+            {
+              "text": "ESLint"
+            }
+          ],
+          "links": [
+            {
+              "text": "See the repo"
+            },
+            {
+              "text": "Add to Chrome"
+            },
+            {
+              "text": "See Demo"
+            }
+          ]
+        },
+        {
+          "title": "Invoice app",
+          "text": "This app offer the ability to create and manage invoices. The front-end is done with the React Framework Next.js and the back-end is done with the headless CMS Strapi.",
+          "technologies": [
+            {
+              "text": "Axios"
+            },
+            {
+              "text": "Yup"
+            },
+            {
+              "text": "Formik"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "SASS"
+            }
+          ],
+          "links": [
+            {
+              "text": "See repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
+            },
+            {
+              "text": "Visit the site",
+              "url": "invoice-app-moussa.vercel.app"
+            }
+          ]
+        },
+        {
           "text": "This is e-commerce website I built with Next.js, Strapi and Snipcart. The front-end is done with the React Framework Next.js. The back-end is done with the headless CMS Strapi. Snippcart was use to add a shopping cart and e-commerce fonctionnality",
           "title": "Audiophile e-commerce",
           "technologies": [
@@ -48,6 +120,12 @@
             },
             {
               "text": "React"
+            }
+          ],
+          "links": [
+            {
+              "text": "Visit the site",
+              "url": "https://audiophile-ecommerce-moussa.netlify.app/"
             }
           ]
         }
@@ -86,6 +164,77 @@
       "title": "Projets",
       "projects": [
         {
+          "title": "Microtrello",
+          "technologies": [
+            {
+              "text": "Typescript"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React-beautiful-dnd"
+            },
+            {
+              "text": "Dexie.js"
+            },
+            {
+              "text": "TailwindCSS"
+            },
+            {
+              "text": "ESLint"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir le repo"
+            },
+            {
+              "text": "Ajouter à Chrome"
+            },
+            {
+              "text": "Voir Démo"
+            }
+          ]
+        },
+        {
+          "title": "Invoice app",
+          "text": "Cette application offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
+          "technologies": [
+            {
+              "text": "Axios"
+            },
+            {
+              "text": "Yup"
+            },
+            {
+              "text": "Formik"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "SASS"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
+            },
+            {
+              "text": "Voir le site",
+              "url": "invoice-app-moussa.vercel.app"
+            }
+          ]
+        },
+        {
           "text": "Il s'agit d'un site e-commerce que j'ai créé avec Next.js, Strapi et Snipcart. Le front-end est fait avec le Framework React, Next.js. Le back-end est réalisé avec le Headless-CMS Strapi. Snippcart a été utilisé pour ajouter un panier et des fonctionnalités d'e-commerce.",
           "title": "Audiophile e-commerce",
           "technologies": [
@@ -103,6 +252,12 @@
             },
             {
               "text": "React"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir le site",
+              "url": "https://audiophile-ecommerce-moussa.netlify.app/"
             }
           ]
         }
