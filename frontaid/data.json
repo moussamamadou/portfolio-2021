@@ -1,1 +1,356 @@
-{}
+{
+  "en": {
+    "seo": {
+      "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632451900/Portfolio/moussamamadou-meta-image-3_muokhf.png",
+      "title": "Moussa Mamadou | Front-End Developer",
+      "description": "I'm a front-end developer, a javascript fanboy and a React.js wizard.",
+      "keywords": [
+        {
+          "keyword": "freelance"
+        },
+        {
+          "keyword": "react.js"
+        },
+        {
+          "keyword": "portfolio"
+        },
+        {
+          "keyword": "javascript"
+        },
+        {
+          "keyword": "developer"
+        }
+      ]
+    },
+    "hero": {
+      "textTop": "I'm <strong>Moussa </strong>a",
+      "textMiddle": "<strong>Front-end Developer</strong>",
+      "textBottom": "And <strong>JS Lover</strong>"
+    },
+    "work": {
+      "title": "Works",
+      "projects": [
+        {
+          "text": "What if Google Keep and Trello had a child ?  Well µTrello will be born.\nµTrello is a very tiny chrome extension task management app for your personnal and private usage.",
+          "title": "Microtrello",
+          "technologies": [
+            {
+              "text": "Typescript"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React-beautiful-dnd"
+            },
+            {
+              "text": "Dexie.js"
+            },
+            {
+              "text": "TailwindCSS"
+            },
+            {
+              "text": "ESLint"
+            }
+          ],
+          "links": [
+            {
+              "text": "See the repo"
+            },
+            {
+              "text": "Add to Chrome"
+            },
+            {
+              "text": "See Demo"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447793/Portfolio/utrello-portfolio_cgihgj.png"
+        },
+        {
+          "title": "Audiophile e-commerce",
+          "text": "This is e-commerce website I built with Next.js, Strapi and Snipcart. The front-end is done with the React Framework Next.js. The back-end is done with the headless CMS Strapi. Snippcart was use to add a shopping cart and e-commerce fonctionnality",
+          "technologies": [
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "Tailwindcss"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            }
+          ],
+          "links": [
+            {
+              "text": "Visit the site",
+              "url": "https://audiophile-ecommerce-moussa.netlify.app/"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447133/Portfolio/AudioPhile-portfolio_rjwtk4.png"
+        },
+        {
+          "text": "This app offer the ability to create and manage invoices. The front-end is done with the React Framework Next.js and the back-end is done with the headless CMS Strapi.",
+          "title": "Invoice app",
+          "technologies": [
+            {
+              "text": "Axios"
+            },
+            {
+              "text": "Yup"
+            },
+            {
+              "text": "Formik"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "SASS"
+            }
+          ],
+          "links": [
+            {
+              "text": "See repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
+            },
+            {
+              "text": "Visit the site",
+              "url": "invoice-app-moussa.vercel.app"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447539/Portfolio/invoice_app-portfolio_pb77ry.png"
+        }
+      ]
+    },
+    "about": {
+      "text": "<p>I am a <strong>Web Developer</strong> based in Paris with a background in <strong>Computer Science</strong>. My main focus being the <strong>Front-End</strong> development, i’m interested in creating <strong>interactives User Interface</strong> and <strong>intuitive User Experience</strong>. I seek to work on creative project that bridge the gap beetween design, usability and technology.</p><p>And to do so, I use these technologies :</p>",
+      "technologies": [
+        {
+          "text": "Javascript (ES6)"
+        },
+        {
+          "text": "Typescript"
+        },
+        {
+          "text": "React"
+        },
+        {
+          "text": "Next.js"
+        },
+        {
+          "text": "GraphQL"
+        },
+        {
+          "text": "Rest API"
+        },
+        {
+          "text": "Node.js"
+        },
+        {
+          "text": "Gsap"
+        },
+        {
+          "text": "FramerMotion"
+        },
+        {
+          "text": "Strapi (Headless CMS)"
+        },
+        {
+          "text": "Tailwindcss"
+        },
+        {
+          "text": "Sass"
+        }
+      ]
+    }
+  },
+  "fr": {
+    "seo": {
+      "keywords": [
+        {
+          "keyword": "freelance"
+        },
+        {
+          "keyword": "react.js"
+        },
+        {
+          "keyword": "portfolio"
+        },
+        {
+          "keyword": "javascript"
+        },
+        {
+          "keyword": "développeur"
+        }
+      ],
+      "title": "Moussa Mamadou |  Développeur Front-End",
+      "description": "Je suis un développeur front-end, un fanatique du javascript et un magicien du React.js",
+      "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632451900/Portfolio/moussamamadou-meta-image-3_muokhf.png"
+    },
+    "hero": {
+      "textTop": "Je suis <strong>Moussa</strong>",
+      "textMiddle": "Développeur Front-End",
+      "textBottom": "Et <strong>Féru de JS </strong>"
+    },
+    "work": {
+      "title": "Projets",
+      "projects": [
+        {
+          "title": "Microtrello",
+          "technologies": [
+            {
+              "text": "Typescript"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React-beautiful-dnd"
+            },
+            {
+              "text": "Dexie.js"
+            },
+            {
+              "text": "TailwindCSS"
+            },
+            {
+              "text": "ESLint"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir le repo"
+            },
+            {
+              "text": "Ajouter à Chrome"
+            },
+            {
+              "text": "Voir Démo"
+            }
+          ],
+          "text": "Et si Google Keep et Trello avaient un enfant ? Eh bien, µTrello verrai le jour.\nµTrello est une toute petite extension chrome permettant la  gestion de tâches  pour votre usage personnel et privé.",
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447793/Portfolio/utrello-portfolio_cgihgj.png"
+        },
+        {
+          "title": "Audiophile e-commerce",
+          "text": "Il s'agit d'un site e-commerce que j'ai créé avec Next.js, Strapi et Snipcart. Le front-end est fait avec le Framework React, Next.js. Le back-end est réalisé avec le Headless-CMS Strapi. Snippcart a été utilisé pour ajouter un panier et des fonctionnalités d'e-commerce.",
+          "technologies": [
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "Tailwindcss"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir le site",
+              "url": "https://audiophile-ecommerce-moussa.netlify.app/"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447133/Portfolio/AudioPhile-portfolio_rjwtk4.png"
+        },
+        {
+          "text": "Cette application offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
+          "title": "Invoice app",
+          "technologies": [
+            {
+              "text": "Axios"
+            },
+            {
+              "text": "Yup"
+            },
+            {
+              "text": "Formik"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "React"
+            },
+            {
+              "text": "SASS"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
+            },
+            {
+              "text": "Voir le site",
+              "url": "invoice-app-moussa.vercel.app"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447539/Portfolio/invoice_app-portfolio_pb77ry.png"
+        }
+      ]
+    },
+    "about": {
+      "text": "<p>Je suis un <strong>développeur Web</strong> basé à Paris avec une formation d'<strong>ingénieur en informatique</strong>. Mon focus principal étant le développement <strong>Front-End</strong>, je suis intéressé par la création d'<strong>interfaces utilisateur interactives</strong> et d'<strong>expérience utilisateur intuitive</strong>. Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le design, l'ergonomie et la technologie.</p><p>Et pour cela, j'utilises ces technologies :</p>",
+      "technologies": [
+        {
+          "text": "Javascript (ES6)"
+        },
+        {
+          "text": "Typescript"
+        },
+        {
+          "text": "React"
+        },
+        {
+          "text": "Next.js"
+        },
+        {
+          "text": "GraphQL"
+        },
+        {
+          "text": "Rest API"
+        },
+        {
+          "text": "Node.js"
+        },
+        {
+          "text": "Gsap"
+        },
+        {
+          "text": "FramerMotion"
+        },
+        {
+          "text": "Strapi (Headless CMS)"
+        },
+        {
+          "text": "Tailwindcss"
+        },
+        {
+          "text": "Sass"
+        }
+      ]
+    }
+  }
+}
