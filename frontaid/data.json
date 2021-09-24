@@ -125,12 +125,12 @@
           ],
           "links": [
             {
-              "text": "See repo",
-              "url": "https://github.com/moussamamadou/invoice-app"
-            },
-            {
               "text": "Visit the site",
               "url": "invoice-app-moussa.vercel.app"
+            },
+            {
+              "text": "See repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
             }
           ],
           "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447539/Portfolio/invoice_app-portfolio_pb77ry.png"
@@ -316,12 +316,12 @@
           ],
           "links": [
             {
-              "text": "Voir repo",
-              "url": "https://github.com/moussamamadou/invoice-app"
-            },
-            {
               "text": "Voir le site",
               "url": "invoice-app-moussa.vercel.app"
+            },
+            {
+              "text": "Voir repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
             }
           ],
           "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447539/Portfolio/invoice_app-portfolio_pb77ry.png"
