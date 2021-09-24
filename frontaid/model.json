@@ -13,7 +13,8 @@
       }
     },
     "image": { ":type": "line" },
-    "url": { ":type": "line" }
+    "url": { ":type": "line" },
+    "author": { ":type": "line" }
   },
   "nav": {
     ":name": "Nav Section",
