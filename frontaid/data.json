@@ -20,7 +20,8 @@
         {
           "keyword": "developer"
         }
-      ]
+      ],
+      "url": "www.moussamamadou.com"
     },
     "hero": {
       "textTop": "I'm <strong>Moussa </strong>a",
@@ -211,7 +212,8 @@
       ],
       "title": "Moussa Mamadou |  Développeur Front-End",
       "description": "Je suis un développeur front-end, un fana du javascript et un magicien du React.js",
-      "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632451900/Portfolio/moussamamadou-meta-image-3_muokhf.png"
+      "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632451900/Portfolio/moussamamadou-meta-image-3_muokhf.png",
+      "url": "www.moussamamadou.com"
     },
     "hero": {
       "textTop": "Je suis <strong>Moussa</strong>",
