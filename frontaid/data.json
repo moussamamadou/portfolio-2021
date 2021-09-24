@@ -24,7 +24,7 @@
     },
     "hero": {
       "textTop": "I'm <strong>Moussa </strong>a",
-      "textMiddle": "<strong>Front-end Developer</strong>",
+      "textMiddle": "<strong>Front-End Developer</strong>",
       "textBottom": "And <strong>JS Lover</strong>"
     },
     "work": {
@@ -34,6 +34,9 @@
           "text": "What if Google Keep and Trello had a child ?  Well µTrello will be born.\nµTrello is a very tiny chrome extension task management app for your personnal and private usage.",
           "title": "Microtrello",
           "technologies": [
+            {
+              "text": "Context API"
+            },
             {
               "text": "Typescript"
             },
@@ -173,7 +176,18 @@
         {
           "text": "Sass"
         }
-      ]
+      ],
+      "title": "About me"
+    },
+    "nav": {
+      "textLeft": "Work",
+      "textMiddle": "Moussa Mamadou",
+      "textRight": "About"
+    },
+    "contact": {
+      "mail": "moussa.mamadou@outlook.com",
+      "title": "Let's talk",
+      "text": "<p>I'm always interested to hear about new projects so feel free to get in touch with me. </p><p>I am open to freelance work and remote position.</p>"
     }
   },
   "fr": {
@@ -196,7 +210,7 @@
         }
       ],
       "title": "Moussa Mamadou |  Développeur Front-End",
-      "description": "Je suis un développeur front-end, un fanatique du javascript et un magicien du React.js",
+      "description": "Je suis un développeur front-end, un fana du javascript et un magicien du React.js",
       "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632451900/Portfolio/moussamamadou-meta-image-3_muokhf.png"
     },
     "hero": {
@@ -205,11 +219,14 @@
       "textBottom": "Et <strong>Féru de JS </strong>"
     },
     "work": {
-      "title": "Projets",
+      "title": "Réalisations",
       "projects": [
         {
           "title": "Microtrello",
           "technologies": [
+            {
+              "text": "Context API"
+            },
             {
               "text": "Typescript"
             },
@@ -350,7 +367,18 @@
         {
           "text": "Sass"
         }
-      ]
+      ],
+      "title": "A propos"
+    },
+    "nav": {
+      "textLeft": "Réalisations",
+      "textMiddle": "Moussa Mamadou",
+      "textRight": "A propos"
+    },
+    "contact": {
+      "mail": "moussa.mamadou@outlook.com",
+      "title": "Contactez moi",
+      "text": "<p>Je suis toujours intéressé à par les nouveaux projets, alors n’hésitez pas à me contacter. </p><p>Je suis ouvert au mission en freelance et au poste à distance.</p>"
     }
   }
 }
