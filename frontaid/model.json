@@ -1,69 +1,72 @@
 {
   ":name": "Portfolio MMB",
-  ":description": "This is a portfolio made with FrontAid CMS + Next.js",  
-  ":locales": [
-    "en",
-    "fr"
-  ],
+  ":description": "This is a portfolio made with FrontAid CMS + Next.js",
+  ":locales": ["en", "fr"],
   "seo": {
     ":name": "SEO Section",
-    "title": {":type": "line"},
-    "description": {":type": "text"},
+    "title": { ":type": "line" },
+    "description": { ":type": "text" },
     "keywords": {
       ":items": {
         ":name": "Keywords",
-        "keyword": {":type": "line"}
+        "keyword": { ":type": "line" }
       }
     },
-    "image": {":type": "line"}
+    "image": { ":type": "line" }
+  },
+  "nav": {
+    ":name": "Nav Section",
+    "textLeft": { ":type": "line" },
+    "textMiddle": { ":type": "line" },
+    "textRight": { ":type": "line" }
   },
   "hero": {
     ":name": "Hero Section",
-    "textTop":{":type": "line", ":richtext":true},
-    "textMiddle":{":type": "line", ":richtext":true},
-    "textBottom":{":type": "line", ":richtext":true}
+    "textTop": { ":type": "line", ":richtext": true },
+    "textMiddle": { ":type": "line", ":richtext": true },
+    "textBottom": { ":type": "line", ":richtext": true }
   },
   "work": {
     ":name": "Work Section",
-    "title": {":type": "line"},
+    "title": { ":type": "line" },
     "projects": {
       ":items": {
         ":name": "Projects",
-        "title": {":type": "line"},
-        "text": {":type": "text"},        
+        "title": { ":type": "line" },
+        "text": { ":type": "text" },
         "technologies": {
           ":items": {
             ":name": "Tech",
-            "text": {":type": "line"}
+            "text": { ":type": "line" }
           }
         },
         "links": {
           ":items": {
-              ":name": "Links",
-              "text": {":type": "line"},
-              "url": {":type": "line"},
-              "icon": {":type": "line"}
+            ":name": "Links",
+            "text": { ":type": "line" },
+            "url": { ":type": "line" },
+            "icon": { ":type": "line" }
           }
         },
-        "image": {":type":"line"}
+        "image": { ":type": "line" }
       }
-    }      
+    }
   },
   "about": {
     ":name": "About Section",
-    "title": {":type": "line"},
-    "text": {":type":"text", ":richtext": true},
+    "title": { ":type": "line" },
+    "text": { ":type": "text", ":richtext": true },
     "technologies": {
       ":items": {
         ":name": "Techs",
-        "text": {":type": "line"}
+        "text": { ":type": "line" }
       }
     }
   },
   "contact": {
     ":name": "Contact Section",
-    "title": {":type": "line"},
-    "text": {":type":"text",":richtext": true},
-    "mail":{":type": "line"}
-  }  
+    "title": { ":type": "line" },
+    "text": { ":type": "text", ":richtext": true },
+    "mail": { ":type": "line" }
+  }
 }
