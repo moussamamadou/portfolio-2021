@@ -35,9 +35,6 @@
           "title": "Microtrello",
           "technologies": [
             {
-              "text": "Context API"
-            },
-            {
               "text": "Typescript"
             },
             {
@@ -45,6 +42,9 @@
             },
             {
               "text": "Next.js"
+            },
+            {
+              "text": "Context API"
             },
             {
               "text": "React-beautiful-dnd"
@@ -225,9 +225,6 @@
           "title": "Microtrello",
           "technologies": [
             {
-              "text": "Context API"
-            },
-            {
               "text": "Typescript"
             },
             {
@@ -235,6 +232,9 @@
             },
             {
               "text": "Next.js"
+            },
+            {
+              "text": "Context API"
             },
             {
               "text": "React-beautiful-dnd"
