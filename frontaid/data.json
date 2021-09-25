@@ -128,7 +128,7 @@
       "text": "<p>I am a <strong>Web Developer</strong> based in Paris with a background in <strong>Computer Science</strong>. </p><p>My main focus being the <strong>Front-End</strong> development, i’m interested in creating <strong>interactives User Interface</strong> and <strong>intuitive User Experience</strong>. </p><p>I seek to work on creative project that bridge the gap beetween design, usability and technology.</p><p></p><p>And to do so, I use these technologies :</p>",
       "technologies": [
         {
-          "text": "Javascript (ES6)"
+          "text": "JS (ES6)"
         },
         {
           "text": "Typescript"
@@ -149,13 +149,13 @@
           "text": "Node.js"
         },
         {
-          "text": "Gsap"
+          "text": "GSAP"
         },
         {
-          "text": "FramerMotion"
+          "text": "Framer Motion"
         },
         {
-          "text": "Strapi (Headless CMS)"
+          "text": "Strapi"
         },
         {
           "text": "Tailwindcss"
@@ -306,7 +306,7 @@
       "text": "<p>Je suis un <strong>développeur Web</strong> basé à Paris avec une formation d'<strong>ingénieur en informatique</strong>. </p><p>Mon focus principal étant le développement <strong>Front-End</strong>, je suis intéressé par la création d'<strong>interfaces utilisateur interactives</strong> et d'<strong>expérience utilisateur intuitive</strong>.</p><p> Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le design, l'ergonomie et la technologie.</p><p></p><p>Et pour cela, j'utilises ces technologies :</p>",
       "technologies": [
         {
-          "text": "Javascript (ES6)"
+          "text": "JS (ES6)"
         },
         {
           "text": "Typescript"
@@ -327,13 +327,13 @@
           "text": "Node.js"
         },
         {
-          "text": "Gsap"
+          "text": "GSAP"
         },
         {
-          "text": "FramerMotion"
+          "text": "Framer Motion"
         },
         {
-          "text": "Strapi (Headless CMS)"
+          "text": "Strapi"
         },
         {
           "text": "Tailwindcss"
