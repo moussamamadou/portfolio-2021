@@ -43,13 +43,13 @@
               "text": "Next.js"
             },
             {
-              "text": "Context API"
+              "text": "ContextAPI"
             },
             {
               "text": "Dexie.js"
             },
             {
-              "text": "TailwindCSS"
+              "text": "Tailwindcss"
             }
           ],
           "links": [
@@ -220,7 +220,7 @@
               "text": "Next.js"
             },
             {
-              "text": "Context API"
+              "text": "ContextAPI"
             },
             {
               "text": "Dexie.js"
@@ -275,12 +275,14 @@
           "text": "Invoice app offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
           "title": "Invoice app",
           "technologies": [
-            {},
+            {
+              "text": "React.js"
+            },
             {
               "text": "Next.js"
             },
             {
-              "text": "React"
+              "text": "Strapi"
             },
             {
               "text": "SASS"
