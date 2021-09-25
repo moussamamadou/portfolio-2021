@@ -40,25 +40,16 @@
               "text": "Typescript"
             },
             {
-              "text": "React"
-            },
-            {
               "text": "Next.js"
             },
             {
               "text": "Context API"
             },
             {
-              "text": "React-beautiful-dnd"
-            },
-            {
               "text": "Dexie.js"
             },
             {
               "text": "TailwindCSS"
-            },
-            {
-              "text": "ESLint"
             }
           ],
           "links": [
@@ -106,9 +97,6 @@
           "text": "Invoice app offer the ability to create and manage invoices. The front-end is done with the React Framework Next.js and the back-end is done with the headless CMS Strapi.",
           "title": "Invoice app",
           "technologies": [
-            {
-              "text": "Axios"
-            },
             {
               "text": "Yup"
             },
@@ -232,25 +220,16 @@
               "text": "Typescript"
             },
             {
-              "text": "React"
-            },
-            {
               "text": "Next.js"
             },
             {
               "text": "Context API"
             },
             {
-              "text": "React-beautiful-dnd"
-            },
-            {
               "text": "Dexie.js"
             },
             {
               "text": "TailwindCSS"
-            },
-            {
-              "text": "ESLint"
             }
           ],
           "links": [
@@ -299,9 +278,6 @@
           "text": "Invoice app offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
           "title": "Invoice app",
           "technologies": [
-            {
-              "text": "Axios"
-            },
             {
               "text": "Yup"
             },
