@@ -33,7 +33,7 @@
       "title": "Works",
       "projects": [
         {
-          "text": "What if Google Keep and Trello had a child ?  Well µTrello will be born.\nµTrello is a very tiny chrome extension task management app for your personnal and private usage.",
+          "text": "µTrello is a very tiny chrome extension task management app for your personnal and private usage.",
           "title": "Microtrello",
           "technologies": [
             {
@@ -75,8 +75,8 @@
           "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447793/Portfolio/utrello-portfolio_cgihgj.png"
         },
         {
-          "title": "Audiophile e-commerce",
-          "text": "This is e-commerce website I built with Next.js, Strapi and Snipcart. The front-end is done with the React Framework Next.js. The back-end is done with the headless CMS Strapi. Snippcart was use to add a shopping cart and e-commerce fonctionnality",
+          "title": "Audiophile",
+          "text": "Audiophile is e-commerce website I built with Next.js, Strapi and Snipcart to add a shopping cart and e-commerce fonctionnality",
           "technologies": [
             {
               "text": "React"
@@ -103,7 +103,7 @@
           "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447133/Portfolio/AudioPhile-portfolio_rjwtk4.png"
         },
         {
-          "text": "This app offer the ability to create and manage invoices. The front-end is done with the React Framework Next.js and the back-end is done with the headless CMS Strapi.",
+          "text": "Invoice app offer the ability to create and manage invoices. The front-end is done with the React Framework Next.js and the back-end is done with the headless CMS Strapi.",
           "title": "Invoice app",
           "technologies": [
             {
@@ -179,7 +179,7 @@
           "text": "Sass"
         }
       ],
-      "title": "About me"
+      "title": "About"
     },
     "nav": {
       "textLeft": "Work",
@@ -264,12 +264,12 @@
               "text": "Voir Démo"
             }
           ],
-          "text": "Et si Google Keep et Trello avaient un enfant ? Eh bien, µTrello verrai le jour.\nµTrello est une toute petite extension chrome permettant la  gestion de tâches  pour votre usage personnel et privé.",
+          "text": "µTrello est une toute petite extension chrome permettant la  gestion de tâches  pour votre usage personnel et privé.",
           "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447793/Portfolio/utrello-portfolio_cgihgj.png"
         },
         {
-          "title": "Audiophile e-commerce",
-          "text": "Il s'agit d'un site e-commerce que j'ai créé avec Next.js, Strapi et Snipcart. Le front-end est fait avec le Framework React, Next.js. Le back-end est réalisé avec le Headless-CMS Strapi. Snippcart a été utilisé pour ajouter un panier et des fonctionnalités d'e-commerce.",
+          "title": "Audiophile",
+          "text": "Audiophile est un site e-commerce que j'ai créé avec Next.js, Strapi et Snipcart pour ajouter un panier et des fonctionnalités d'e-commerce.",
           "technologies": [
             {
               "text": "React"
@@ -296,7 +296,7 @@
           "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447133/Portfolio/AudioPhile-portfolio_rjwtk4.png"
         },
         {
-          "text": "Cette application offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
+          "text": "Invoice app offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
           "title": "Invoice app",
           "technologies": [
             {
