@@ -98,12 +98,6 @@
           "title": "Invoice app",
           "technologies": [
             {
-              "text": "Yup"
-            },
-            {
-              "text": "Formik"
-            },
-            {
               "text": "Next.js"
             },
             {
@@ -278,12 +272,6 @@
           "text": "Invoice app offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
           "title": "Invoice app",
           "technologies": [
-            {
-              "text": "Yup"
-            },
-            {
-              "text": "Formik"
-            },
             {
               "text": "Next.js"
             },
