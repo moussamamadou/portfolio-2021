@@ -57,7 +57,8 @@
   "about": {
     ":name": "About Section",
     "title": { ":type": "line" },
-    "text": { ":type": "text", ":richtext": true },
+    "textFirst": { ":type": "text", ":richtext": true },
+    "textSecond": { ":type": "text", ":richtext": true },
     "technologies": {
       ":items": {
         ":name": "Techs",
@@ -68,8 +69,7 @@
   "contact": {
     ":name": "Contact Section",
     "title": { ":type": "line" },
-    "textFirst": { ":type": "text", ":richtext": true },
-    "textSecond": { ":type": "text", ":richtext": true },
+    "text": { ":type": "text", ":richtext": true },
     "mail": { ":type": "line" }
   }
 }
