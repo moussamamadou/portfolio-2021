@@ -352,7 +352,9 @@
     "contact": {
       "mail": "moussa.mamadou@outlook.com",
       "title": "Contactez moi",
-      "text": "<p>Je suis toujours intéressé à par les nouveaux projets, alors n’hésitez pas à me contacter. </p><p>Je suis ouvert au mission en freelance et au poste à distance.</p>"
+      "text": "<p>Je suis toujours intéressé à par les nouveaux projets, alors n’hésitez pas à me contacter. </p><p>Je suis ouvert au mission en freelance et au poste à distance.</p>",
+      "textFirst": "<pre><code>Je&nbsp;suis&nbsp;un développeur&nbsp;Web&nbsp;basé&nbsp;à&nbsp;Paris&nbsp;avec&nbsp;une&nbsp;formation&nbsp;d'ingénieur&nbsp;en&nbsp;informatique.\n\nMon&nbsp;focus&nbsp;principal&nbsp;étant&nbsp;le&nbsp;développement&nbsp;Front-End,&nbsp;je&nbsp;suis&nbsp;intéressé&nbsp;par&nbsp;la&nbsp;création&nbsp;d'&lt;strong&gt;interfaces&nbsp;utilisateur&nbsp;interactives&lt;/strong&gt;&nbsp;et&nbsp;d'&lt;strong&gt;expérience&nbsp;utilisateur&nbsp;intuitive&lt;/strong&gt;.\n</code></pre>",
+      "textSecond": "<pre><code>Je&nbsp;cherche&nbsp;à&nbsp;travailler&nbsp;sur&nbsp;des&nbsp;projets&nbsp;créatifs&nbsp;qui&nbsp;comblent&nbsp;le&nbsp;fossé&nbsp;entre&nbsp;le&nbsp;design,&nbsp;l'ergonomie&nbsp;et&nbsp;la&nbsp;technologie.\n\nEt&nbsp;pour&nbsp;cela,&nbsp;j'utilises&nbsp;ces&nbsp;technologies&nbsp;:</code></pre>"
     }
   }
 }
