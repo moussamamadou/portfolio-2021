@@ -1,8 +1,360 @@
 {
-  "fr": {
+  "en": {
+    "seo": {
+      "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632451900/Portfolio/moussamamadou-meta-image-3_muokhf.png",
+      "title": "Moussa Mamadou | Front-End Developer",
+      "description": "I'm a front-end developer, a javascript fanboy and a React.js wizard.",
+      "keywords": [
+        {
+          "keyword": "freelance"
+        },
+        {
+          "keyword": "react.js"
+        },
+        {
+          "keyword": "portfolio"
+        },
+        {
+          "keyword": "javascript"
+        },
+        {
+          "keyword": "developer"
+        }
+      ],
+      "url": "http://www.moussamamadou.com",
+      "author": "Moussa Mamadou"
+    },
+    "hero": {
+      "textTop": "I'm <strong>Moussa </strong>a",
+      "textMiddle": "<strong>Front-End Developer</strong>",
+      "textBottom": "And <strong>JS Lover</strong>"
+    },
+    "work": {
+      "title": "Works",
+      "projects": [
+        {
+          "text": "µTrello is a very tiny chrome extension task management app for your personnal and private usage.",
+          "title": "Microtrello",
+          "technologies": [
+            {
+              "text": "Typescript"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "ContextAPI"
+            },
+            {
+              "text": "Dexie.js"
+            },
+            {
+              "text": "Tailwindcss"
+            }
+          ],
+          "links": [
+            {
+              "text": "Add to Chrome"
+            },
+            {
+              "text": "See Repo"
+            },
+            {
+              "text": "See Demo"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447793/Portfolio/utrello-portfolio_cgihgj.png"
+        },
+        {
+          "title": "Audiophile",
+          "text": "Audiophile is e-commerce website I built with Next.js, Strapi and Snipcart to add a shopping cart and e-commerce fonctionnality",
+          "technologies": [
+            {
+              "text": "React"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Tailwindcss"
+            }
+          ],
+          "links": [
+            {
+              "text": "Visit the site",
+              "url": "https://audiophile-ecommerce-moussa.netlify.app/"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447133/Portfolio/AudioPhile-portfolio_rjwtk4.png"
+        },
+        {
+          "text": "Invoice app offer the ability to create and manage invoices. The front-end is done with the React Framework Next.js and the back-end is done with the headless CMS Strapi.",
+          "title": "Invoice app",
+          "technologies": [
+            {
+              "text": "React.js"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "SASS"
+            }
+          ],
+          "links": [
+            {
+              "text": "Visit the site",
+              "url": "invoice-app-moussa.vercel.app"
+            },
+            {
+              "text": "See repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447539/Portfolio/invoice_app-portfolio_pb77ry.png"
+        }
+      ]
+    },
     "about": {
-      "textFirst": "<pre><code>Je&nbsp;suis&nbsp;un développeur&nbsp;Web&nbsp;basé&nbsp;à&nbsp;Paris&nbsp;avec&nbsp;une&nbsp;formation&nbsp;d'ingénieur&nbsp;en&nbsp;informatique. &lt;br /&gt;</code></pre><pre><code>Mon&nbsp;focus&nbsp;principal&nbsp;étant&nbsp;le&nbsp;développement&nbsp;Front-End, je&nbsp;suis&nbsp;intéressé&nbsp;par&nbsp;la&nbsp;création&nbsp;d'&lt;strong&gt;interfaces&nbsp;utilisateur&nbsp;interactives&lt;/strong&gt;&nbsp;et&nbsp;d'&lt;strong&gt;expérience&nbsp;utilisateur&nbsp;intuitive&lt;/strong&gt;.</code></pre>",
-      "textSecond": "<pre><code>Je&nbsp;cherche&nbsp;à&nbsp;travailler&nbsp;sur&nbsp;des&nbsp;projets&nbsp;créatifs&nbsp;qui&nbsp;comblent&nbsp;le&nbsp;fossé&nbsp;entre&nbsp;le&nbsp;design,&nbsp;l'ergonomie&nbsp;et&nbsp;la&nbsp;technologie.</code></pre><pre><code>Et&nbsp;pour&nbsp;cela,&nbsp;j'utilises&nbsp;ces&nbsp;technologies&nbsp;:</code></pre>"
+      "text": "<p>I am a <strong>Web Developer</strong> based in Paris with a background in <strong>Computer Science</strong>. </p><p>My main focus being the <strong>Front-End</strong> development, i’m interested in creating <strong>interactives User Interface</strong> and <strong>intuitive User Experience</strong>. </p><p>I seek to work on creative project that bridge the gap beetween design, usability and technology.</p><p></p><p>And to do so, I use these technologies :</p>",
+      "technologies": [
+        {
+          "text": "JS (ES6)"
+        },
+        {
+          "text": "Typescript"
+        },
+        {
+          "text": "React"
+        },
+        {
+          "text": "Next.js"
+        },
+        {
+          "text": "GraphQL"
+        },
+        {
+          "text": "Rest API"
+        },
+        {
+          "text": "Node.js"
+        },
+        {
+          "text": "GSAP"
+        },
+        {
+          "text": "Framer Motion"
+        },
+        {
+          "text": "Strapi"
+        },
+        {
+          "text": "Tailwindcss"
+        },
+        {
+          "text": "Sass"
+        }
+      ],
+      "title": "About"
+    },
+    "nav": {
+      "textLeft": "Work",
+      "textMiddle": "Moussa Mamadou",
+      "textRight": "About"
+    },
+    "contact": {
+      "mail": "moussa.mamadou@outlook.com",
+      "title": "Let's talk",
+      "text": "<pre><code>I'm always interested to hear about new projects so feel free to get in touch with me.</code></pre><pre><code>I am open to freelance work and remote position.</code></pre>"
+    }
+  },
+  "fr": {
+    "seo": {
+      "keywords": [
+        {
+          "keyword": "freelance"
+        },
+        {
+          "keyword": "react.js"
+        },
+        {
+          "keyword": "portfolio"
+        },
+        {
+          "keyword": "javascript"
+        },
+        {
+          "keyword": "développeur"
+        }
+      ],
+      "title": "Moussa Mamadou |  Développeur Front-End",
+      "description": "Je suis un développeur front-end, un fana du javascript et un magicien du React.js",
+      "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632451900/Portfolio/moussamamadou-meta-image-3_muokhf.png",
+      "url": "http://www.moussamamadou.com",
+      "author": "Moussa Mamadou"
+    },
+    "hero": {
+      "textTop": "Je suis <strong>Moussa</strong>",
+      "textMiddle": "Développeur Front-End",
+      "textBottom": "Et <strong>Féru de JS </strong>"
+    },
+    "work": {
+      "title": "Réalisations",
+      "projects": [
+        {
+          "title": "Microtrello",
+          "technologies": [
+            {
+              "text": "Typescript"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "ContextAPI"
+            },
+            {
+              "text": "Dexie.js"
+            },
+            {
+              "text": "TailwindCSS"
+            }
+          ],
+          "links": [
+            {
+              "text": "Ajouter à Chrome"
+            },
+            {
+              "text": "Voir le repo"
+            },
+            {
+              "text": "Voir Démo"
+            }
+          ],
+          "text": "µTrello est une toute petite extension chrome permettant la  gestion de tâches  pour votre usage personnel et privé.",
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447793/Portfolio/utrello-portfolio_cgihgj.png"
+        },
+        {
+          "title": "Audiophile",
+          "text": "Audiophile est un site e-commerce que j'ai créé avec Next.js, Strapi et Snipcart pour ajouter un panier et des fonctionnalités d'e-commerce.",
+          "technologies": [
+            {
+              "text": "React"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "Snipcart"
+            },
+            {
+              "text": "Tailwindcss"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir le site",
+              "url": "https://audiophile-ecommerce-moussa.netlify.app/"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447133/Portfolio/AudioPhile-portfolio_rjwtk4.png"
+        },
+        {
+          "text": "Invoice app offre la possibilité de créer et de gérer des factures. Le front-end est fait avec le React Framework Next.js et le back-end est fait avec le CMS sans tête Strapi.",
+          "title": "Invoice app",
+          "technologies": [
+            {
+              "text": "React.js"
+            },
+            {
+              "text": "Next.js"
+            },
+            {
+              "text": "Strapi"
+            },
+            {
+              "text": "SASS"
+            }
+          ],
+          "links": [
+            {
+              "text": "Voir le site",
+              "url": "invoice-app-moussa.vercel.app"
+            },
+            {
+              "text": "Voir repo",
+              "url": "https://github.com/moussamamadou/invoice-app"
+            }
+          ],
+          "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447539/Portfolio/invoice_app-portfolio_pb77ry.png"
+        }
+      ]
+    },
+    "about": {
+      "text": "<p>Je suis un <strong>développeur Web</strong> basé à Paris avec une formation d'<strong>ingénieur en informatique</strong>. </p><p>Mon focus principal étant le développement <strong>Front-End</strong>, je suis intéressé par la création d'<strong>interfaces utilisateur interactives</strong> et d'<strong>expérience utilisateur intuitive</strong>.</p><p> Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le design, l'ergonomie et la technologie.</p><p></p><p>Et pour cela, j'utilises ces technologies :</p>",
+      "technologies": [
+        {
+          "text": "JS (ES6)"
+        },
+        {
+          "text": "Typescript"
+        },
+        {
+          "text": "React"
+        },
+        {
+          "text": "Next.js"
+        },
+        {
+          "text": "GraphQL"
+        },
+        {
+          "text": "Rest API"
+        },
+        {
+          "text": "Node.js"
+        },
+        {
+          "text": "GSAP"
+        },
+        {
+          "text": "Framer Motion"
+        },
+        {
+          "text": "Strapi"
+        },
+        {
+          "text": "Tailwindcss"
+        },
+        {
+          "text": "Sass"
+        }
+      ],
+      "title": "A propos"
+    },
+    "nav": {
+      "textLeft": "Réalisations",
+      "textMiddle": "Moussa Mamadou",
+      "textRight": "A propos"
+    },
+    "contact": {
+      "mail": "moussa.mamadou@outlook.com",
+      "title": "Contactez moi",
+      "text": "<p>Je suis toujours intéressé à par les nouveaux projets, alors n’hésitez pas à me contacter. </p><p>Je suis ouvert au mission en freelance et au poste à distance.</p>",
+      "textFirst": "<pre><code>Je&nbsp;suis&nbsp;un développeur&nbsp;Web&nbsp;basé&nbsp;à&nbsp;Paris&nbsp;avec&nbsp;une&nbsp;formation&nbsp;d'ingénieur&nbsp;en&nbsp;informatique.\n\nMon&nbsp;focus&nbsp;principal&nbsp;étant&nbsp;le&nbsp;développement&nbsp;Front-End,&nbsp;je&nbsp;suis&nbsp;intéressé&nbsp;par&nbsp;la&nbsp;création&nbsp;d'&lt;strong&gt;interfaces&nbsp;utilisateur&nbsp;interactives&lt;/strong&gt;&nbsp;et&nbsp;d'&lt;strong&gt;expérience&nbsp;utilisateur&nbsp;intuitive&lt;/strong&gt;.\n</code></pre>",
+      "textSecond": "<pre><code>Je&nbsp;cherche&nbsp;à&nbsp;travailler&nbsp;sur&nbsp;des&nbsp;projets&nbsp;créatifs&nbsp;qui&nbsp;comblent&nbsp;le&nbsp;fossé&nbsp;entre&nbsp;le&nbsp;design,&nbsp;l'ergonomie&nbsp;et&nbsp;la&nbsp;technologie.\n\nEt&nbsp;pour&nbsp;cela,&nbsp;j'utilises&nbsp;ces&nbsp;technologies&nbsp;:</code></pre>"
     }
   }
 }
