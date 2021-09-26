@@ -18,15 +18,17 @@
   },
   "nav": {
     ":name": "Nav Section",
-    "textLeft": { ":type": "line" },
-    "textMiddle": { ":type": "line" },
-    "textRight": { ":type": "line" }
+    "logo": { ":type": "line" },
+    "textFirst": { ":type": "line" },
+    "textSecond": { ":type": "line" },
+    "textThird": { ":type": "line" }
   },
   "hero": {
     ":name": "Hero Section",
-    "textTop": { ":type": "line", ":richtext": true },
-    "textMiddle": { ":type": "line", ":richtext": true },
-    "textBottom": { ":type": "line", ":richtext": true }
+    "textFirst": { ":type": "line", ":richtext": true },
+    "textSecond": { ":type": "line", ":richtext": true },
+    "textThird": { ":type": "line", ":richtext": true },
+    "textFourth": { ":type": "line", ":richtext": true }
   },
   "work": {
     ":name": "Work Section",
