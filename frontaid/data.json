@@ -55,13 +55,16 @@
           ],
           "links": [
             {
-              "text": "Add to Chrome"
+              "text": "Add to Chrome",
+              "url": "https://chrome.google.com/webstore/category/extensions?hl=fr"
             },
             {
-              "text": "See Repo"
+              "text": "See Repo",
+              "url": "https://github.com/moussamamadou/microtrello-app"
             },
             {
-              "text": "See Demo"
+              "text": "See Demo",
+              "url": "https://microtrello-app.vercel.app/"
             }
           ],
           "image": "https://res.cloudinary.com/moussamamadou/image/upload/v1632447793/Portfolio/utrello-portfolio_cgihgj.png"
@@ -234,13 +237,16 @@
           ],
           "links": [
             {
-              "text": "Ajouter à Chrome"
+              "text": "Ajouter à Chrome",
+              "url": "https://chrome.google.com/webstore/category/extensions?hl=fr"
             },
             {
-              "text": "Voir le repo"
+              "text": "Voir le repo",
+              "url": "https://github.com/moussamamadou/microtrello-app"
             },
             {
-              "text": "Voir Démo"
+              "text": "Voir Démo",
+              "url": "https://microtrello-app.vercel.app/"
             }
           ],
           "text": "µTrello est une toute petite extension chrome permettant la  gestion de tâches  pour votre usage personnel et privé.",
