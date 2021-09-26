@@ -68,7 +68,8 @@
   "contact": {
     ":name": "Contact Section",
     "title": { ":type": "line" },
-    "text": { ":type": "text", ":richtext": true },
+    "textFirst": { ":type": "text", ":richtext": true },
+    "textSecond": { ":type": "text", ":richtext": true },
     "mail": { ":type": "line" }
   }
 }
