@@ -342,7 +342,9 @@
           "text": "Sass"
         }
       ],
-      "title": "A propos"
+      "title": "A propos",
+      "textFirst": "<p>Je suis un <strong><em>développeur Web</em></strong> basé à Paris avec une formation d'<strong><em>ingénieur en informatique</em></strong>. </p><p>&lt;br /&gt;</p><p>Mon focus principal étant le développement <strong><em>Front-End</em></strong>, je suis intéressé par la création d'<strong><em>interfaces utilisateur interactives</em></strong> et d'<strong><em>expérience utilisateur intuitive</em></strong>.</p>",
+      "textSecond": "<p>Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le <strong><em>design</em></strong>, l'<strong><em>ergonomie</em></strong> et la <strong><em>technologie</em></strong>.</p><p>&lt;br /&gt;</p><p>Et pour cela, j'utilises ces technologies :</p>"
     },
     "nav": {
       "textLeft": "Réalisations",
