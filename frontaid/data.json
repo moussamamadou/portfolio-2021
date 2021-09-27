@@ -117,7 +117,7 @@
           "links": [
             {
               "text": "Visit the site",
-              "url": "invoice-app-moussa.vercel.app"
+              "url": "https://invoice-app-moussa.vercel.app/"
             },
             {
               "text": "See repo",
@@ -300,7 +300,7 @@
           "links": [
             {
               "text": "Voir le site",
-              "url": "invoice-app-moussa.vercel.app"
+              "url": "https://invoice-app-moussa.vercel.app/"
             },
             {
               "text": "Voir repo",
