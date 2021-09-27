@@ -25,10 +25,7 @@
   },
   "hero": {
     ":name": "Hero Section",
-    "textFirst": { ":type": "line", ":richtext": true },
-    "textSecond": { ":type": "line", ":richtext": true },
-    "textThird": { ":type": "line", ":richtext": true },
-    "textFourth": { ":type": "line", ":richtext": true }
+    "text": { ":type": "text", ":richtext": true }
   },
   "work": {
     ":name": "Work Section",
