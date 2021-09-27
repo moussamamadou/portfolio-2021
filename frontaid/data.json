@@ -26,9 +26,9 @@
     },
     "hero": {
       "textFirst": "Moussa Mamadou",
-      "textSecond": "Front-End",
-      "textThird": "Developer",
-      "textFourth": "Available for Freelance"
+      "textSecond": "Front-End Developer",
+      "textThird": "Available for Freelance Work",
+      "textFourth": "Say Hi !"
     },
     "work": {
       "title": "Works",
@@ -168,10 +168,12 @@
           "text": "Sass"
         }
       ],
-      "title": "About"
+      "title": "About",
+      "textSecond": "<p>I'm looking to work on creative projects that bridge the gap between <strong>design</strong>, <strong>ergonomics </strong>and <strong>technology</strong>.\n\nAnd for that, I use these technologies:</p>",
+      "textFirst": "<p>I am a <strong><em>web develope</em></strong><em>r</em> based in Paris with a background in <strong><em>computer science engineering</em></strong>.  My main focus being <strong><em>Front-End</em></strong> development, I am interested in creating <strong><em>interactive user interfaces</em></strong> and <strong><em>intuitive user experience</em></strong>.</p>"
     },
     "nav": {
-      "logo": "Moussa Mamadou",
+      "logo": "Moussa",
       "linkFirst": "Work",
       "linkSecond": "About",
       "linkThird": "Contact"
@@ -179,7 +181,7 @@
     "contact": {
       "mail": "moussa.mamadou@outlook.com",
       "title": "Let's talk",
-      "text": "<p>I'm always interested to hear about new projects so feel free to get in touch with me.</p><br /><p>I am open to freelance work and remote position.</p>"
+      "text": "<p>I'm always interested to hear about new projects so feel free to get in touch with me.</p><p>I am open to freelance work and remote position.</p>"
     }
   },
   "fr": {
@@ -209,9 +211,9 @@
     },
     "hero": {
       "textFirst": "Moussa Mamadou",
-      "textSecond": "Développeur",
-      "textThird": "Front-End",
-      "textFourth": "Disponible en Freelance"
+      "textSecond": "Développeur Front-End",
+      "textThird": "Disponible pour mission en Freelance",
+      "textFourth": "Dites bonjour !"
     },
     "work": {
       "title": "Réalisations",
@@ -352,11 +354,11 @@
         }
       ],
       "title": "A propos",
-      "textFirst": "<p>Je suis un <strong><em>développeur Web</em></strong> basé à Paris avec une formation d'<strong><em>ingénieur en informatique</em></strong>. </p><p>&lt;br /&gt;</p><p>Mon focus principal étant le développement <strong><em>Front-End</em></strong>, je suis intéressé par la création d'<strong><em>interfaces utilisateur interactives</em></strong> et d'<strong><em>expérience utilisateur intuitive</em></strong>.</p>",
-      "textSecond": "<p>Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le <strong><em>design</em></strong>, l'<strong><em>ergonomie</em></strong> et la <strong><em>technologie</em></strong>.</p><p>&lt;br /&gt;</p><p>Et pour cela, j'utilises ces technologies :</p>"
+      "textFirst": "<p>Je suis un <strong><em>développeur Web</em></strong> basé à Paris avec une formation d'<strong><em>ingénieur en informatique</em></strong>.</p><p>Mon focus principal étant le développement <strong><em>Front-End</em></strong>, je suis intéressé par la création d'<strong><em>interfaces utilisateur interactives</em></strong> et d'<strong><em>expérience utilisateur intuitive</em></strong>.</p>",
+      "textSecond": "<p>Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le <strong><em>design</em></strong>, l'<strong><em>ergonomie</em></strong> et la <strong><em>technologie</em></strong>.</p><p>Et pour cela, j'utilises ces technologies :</p>"
     },
     "nav": {
-      "logo": "Moussa Mamadou",
+      "logo": "Moussa",
       "linkFirst": "Réalisations",
       "linkSecond": "A propos",
       "linkThird": "Contact"
@@ -364,7 +366,7 @@
     "contact": {
       "mail": "moussa.mamadou@outlook.com",
       "title": "Contactez moi",
-      "text": "<p>Je suis toujours intéressé à par les nouveaux projets, alors n’hésitez pas à me contacter. </p><br /><p>Je suis ouvert au mission en freelance et au poste à distance.</p>"
+      "text": "<p>Je suis toujours intéressé à par les nouveaux projets, alors n’hésitez pas à me contacter.</p><p>Je suis ouvert au mission en freelance et au poste à distance.</p>"
     }
   }
 }
