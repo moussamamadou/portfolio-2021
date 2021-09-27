@@ -29,7 +29,7 @@
       "textSecond": "Front-End Developer",
       "textThird": "Available for Freelance",
       "textFourth": "Say Hi !",
-      "text": "hi, i am <b>moussa</b>, a front-end developer based in paris. i am available for freelance work."
+      "text": "hi, i am <b>moussa</b>, a <b>front-end developer</b> based in <b>paris</b>. i am available for <b>freelance</b> work."
     },
     "work": {
       "title": "Works",
@@ -215,7 +215,7 @@
       "textSecond": "Développeur Front-End",
       "textThird": "Disponible en Freelance",
       "textFourth": "Ecris moi !",
-      "text": "bonjour, je suis moussa, développeur front-end basé à paris. je suis disponible pour des missions en freelance."
+      "text": "bonjour, je suis <b>moussa</b>, un <b>développeur front-end</b> basé à <b>paris</b>. je suis disponible pour des missions en <b>freelance</b>."
     },
     "work": {
       "title": "Réalisations",
