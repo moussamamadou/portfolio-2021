@@ -28,7 +28,8 @@
       "textFirst": "Moussa Mamadou",
       "textSecond": "Front-End Developer",
       "textThird": "Available for Freelance",
-      "textFourth": "Say Hi !"
+      "textFourth": "Say Hi !",
+      "text": "<p>hi, i am moussa, a front-end developer based in paris. i am available for freelance work.</p>"
     },
     "work": {
       "title": "Works",
@@ -213,7 +214,8 @@
       "textFirst": "Moussa Mamadou",
       "textSecond": "Développeur Front-End",
       "textThird": "Disponible en Freelance",
-      "textFourth": "Ecris moi !"
+      "textFourth": "Ecris moi !",
+      "text": "<p>bonjour, je suis moussa, développeur front-end basé à paris. je suis disponible pour des missions en freelance.</p>"
     },
     "work": {
       "title": "Réalisations",
