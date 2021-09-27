@@ -169,8 +169,8 @@
         }
       ],
       "title": "About",
-      "textSecond": "<p>I'm looking to work on creative projects that bridge the gap between <strong>design</strong>, <strong>ergonomics </strong>and <strong>technology</strong>.\n\nAnd for that, I use these technologies:</p>",
-      "textFirst": "<p>I am a <strong><em>web develope</em></strong><em>r</em> based in Paris with a background in <strong><em>computer science engineering</em></strong>.  My main focus being <strong><em>Front-End</em></strong> development, I am interested in creating <strong><em>interactive user interfaces</em></strong> and <strong><em>intuitive user experience</em></strong>.</p>"
+      "textSecond": "<p>I'm looking to work on creative projects that bridge the gap between <strong>design</strong>, <strong>ergonomics </strong>and <strong>technology</strong>.</p><p> </p><p> And for that, I use these technologies:</p>",
+      "textFirst": "<p>I am a <strong><em>web develope</em></strong><em>r</em> based in Paris with a background in <strong><em>computer science engineering</em></strong>.  </p><p> </p><p>My main focus being <strong><em>Front-End</em></strong> development, I am interested in creating <strong><em>interactive user interfaces</em></strong> and <strong><em>intuitive user experience</em></strong>.</p>"
     },
     "nav": {
       "logo": "Moussa",
@@ -354,8 +354,8 @@
         }
       ],
       "title": "A propos",
-      "textFirst": "<p>Je suis un <strong><em>développeur Web</em></strong> basé à Paris avec une formation d'<strong><em>ingénieur en informatique</em></strong>.</p><p>Mon focus principal étant le développement <strong><em>Front-End</em></strong>, je suis intéressé par la création d'<strong><em>interfaces utilisateur interactives</em></strong> et d'<strong><em>expérience utilisateur intuitive</em></strong>.</p>",
-      "textSecond": "<p>Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le <strong><em>design</em></strong>, l'<strong><em>ergonomie</em></strong> et la <strong><em>technologie</em></strong>.</p><p>Et pour cela, j'utilises ces technologies :</p>"
+      "textFirst": "<p>Je suis un <strong><em>développeur Web</em></strong> basé à Paris avec une formation d'<strong><em>ingénieur en informatique</em></strong>.</p><p> </p><p>Mon focus principal étant le développement <strong><em>Front-End</em></strong>, je suis intéressé par la création d'<strong><em>interfaces utilisateur interactives</em></strong> et d'<strong><em>expérience utilisateur intuitive</em></strong>.</p>",
+      "textSecond": "<p>Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le <strong><em>design</em></strong>, l'<strong><em>ergonomie</em></strong> et la <strong><em>technologie</em></strong>.</p><p> </p><p>Et pour cela, j'utilises ces technologies :</p>"
     },
     "nav": {
       "logo": "Moussa",
