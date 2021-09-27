@@ -27,7 +27,7 @@
     "hero": {
       "textFirst": "Moussa Mamadou",
       "textSecond": "Front-End Developer",
-      "textThird": "Available for Freelance Work",
+      "textThird": "Available for Freelance",
       "textFourth": "Say Hi !"
     },
     "work": {
@@ -212,8 +212,8 @@
     "hero": {
       "textFirst": "Moussa Mamadou",
       "textSecond": "Développeur Front-End",
-      "textThird": "Disponible pour mission en Freelance",
-      "textFourth": "Dites bonjour !"
+      "textThird": "Disponible en Freelance",
+      "textFourth": "Ecris moi !"
     },
     "work": {
       "title": "Réalisations",
