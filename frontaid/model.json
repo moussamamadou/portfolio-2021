@@ -25,7 +25,7 @@
   },
   "hero": {
     ":name": "Hero Section",
-    "text": { ":type": "text", ":richtext": true }
+    "text": { ":type": "text" }
   },
   "work": {
     ":name": "Work Section",
