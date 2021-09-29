@@ -174,7 +174,7 @@
       "textFirst": "<p>I am a <strong><em>web develope</em></strong><em>r</em> based in Paris with a background in <strong><em>computer science engineering</em></strong>.  </p><p> </p><p>My main focus being <strong><em>Front-End</em></strong> development, I am interested in creating <strong><em>interactive user interfaces</em></strong> and <strong><em>intuitive user experience</em></strong>.</p>"
     },
     "nav": {
-      "logo": "Moussa",
+      "logo": "Moussa.",
       "linkFirst": "Work",
       "linkSecond": "About",
       "linkThird": "Contact"
@@ -215,7 +215,7 @@
       "textSecond": "Développeur Front-End",
       "textThird": "Disponible en Freelance",
       "textFourth": "Ecris moi !",
-      "text": "bonjour, je suis <b>moussa</b>, un <b>développeur front-end</b> basé à <b>paris</b>.<br/><br/>je suis disponible pour des missions en <b>freelance</b>."
+      "text": "bonjour, je suis <b>moussa</b>, <b>développeur front-end</b> basé à <b>paris</b>.<br/><br/>je suis disponible pour des missions en <b>freelance</b>."
     },
     "work": {
       "title": "Réalisations",
@@ -360,7 +360,7 @@
       "textSecond": "<p>Je cherche à travailler sur des projets créatifs qui comblent le fossé entre le <strong><em>design</em></strong>, l'<strong><em>ergonomie</em></strong> et la <strong><em>technologie</em></strong>.</p><p> </p><p>Et pour cela, j'utilises ces technologies :</p>"
     },
     "nav": {
-      "logo": "Moussa",
+      "logo": "Moussa.",
       "linkFirst": "Réalisations",
       "linkSecond": "A propos",
       "linkThird": "Contact"
