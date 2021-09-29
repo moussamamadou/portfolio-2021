@@ -25,7 +25,8 @@
   },
   "hero": {
     ":name": "Hero Section",
-    "text": { ":type": "text" }
+    "textFirst": { ":type": "text" },
+    "textSecond": { ":type": "text" }
   },
   "work": {
     ":name": "Work Section",

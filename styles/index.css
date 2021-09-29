@@ -45,7 +45,7 @@
     @apply font-bold;
   }
   h1 {
-    @apply text-4xl font-light leading-relaxed;
+    @apply text-4xl font-medium leading-normal;
   }
   b,
   strong {
