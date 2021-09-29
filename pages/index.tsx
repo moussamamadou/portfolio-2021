@@ -60,9 +60,10 @@ export default function Home({ data }: any): JSX.Element {
 }
 
 export async function getStaticProps({ locale }: any) {
+  const mydata: any = data[locale];
   return {
     props: {
-      data: data[locale],
+      data: mydata,
     },
   };
 }
