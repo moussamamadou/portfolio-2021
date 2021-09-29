@@ -9,6 +9,7 @@ import data from "../frontaid/data.json";
 import dynamic from "next/dynamic";
 import { LocomotiveScrollProvider } from "react-locomotive-scroll";
 import { useRef } from "react";
+import SmoothCursor from "react-smooth-cursor";
 const AnimatedCursor = dynamic(() => import("react-animated-cursor"), {
   ssr: false,
 });
@@ -48,14 +49,15 @@ export default function Home({ data }: any): JSX.Element {
           </footer>
         </div>
       </LocomotiveScrollProvider>
-      <AnimatedCursor
-        innerSize={15}
-        outerSize={40}
-        color="255, 255, 255"
-        outerAlpha={0.2}
-        innerScale={1}
-        outerScale={1.5}
-        trailingSpeed={7}
+      <SmoothCursor
+        // Required
+        selectors={["antValidCssSelector01", "antValidCssSelector02"]}
+        // Optionals
+        fillColor="#fff"
+        strokeColor="#fff"
+        strokeWidth={1}
+        smoothness={0.15}
+        circleRadius={40}
       />
     </div>
   );

@@ -77,7 +77,7 @@ const Work = ({ data }: any) => {
                               passHref
                             >
                               <a
-                                className={`magic-btn font-bold  ${
+                                className={`magic-btn font-bold  text-sm mt-2  ${
                                   index % 2 == 0
                                     ? "mr-5 lg:mr-5"
                                     : "mr-5 lg:mr-0 lg:ml-5"
