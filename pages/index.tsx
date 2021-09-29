@@ -5,7 +5,7 @@ import Contact from "../components/Contact";
 import Hero from "../components/Hero";
 import Work from "../components/Work";
 import Footer from "../components/Footer";
-import data from "../frontaid/data.json";
+import * as data from "../frontaid/data.json";
 import { LocomotiveScrollProvider } from "react-locomotive-scroll";
 import { useRef } from "react";
 import SmoothCursor from "react-smooth-cursor";
@@ -60,7 +60,12 @@ export default function Home({ data }: any): JSX.Element {
 }
 
 export async function getStaticProps({ locale }: any) {
-  const mydata: any = data[locale];
+  let mydata: any;
+  if (locale === "fr") {
+    mydata = data.fr;
+  } else {
+    mydata = data.en;
+  }
   return {
     props: {
       data: mydata,
