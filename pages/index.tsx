@@ -6,13 +6,9 @@ import Hero from "../components/Hero";
 import Work from "../components/Work";
 import Footer from "../components/Footer";
 import data from "../frontaid/data.json";
-import dynamic from "next/dynamic";
 import { LocomotiveScrollProvider } from "react-locomotive-scroll";
 import { useRef } from "react";
 import SmoothCursor from "react-smooth-cursor";
-const AnimatedCursor = dynamic(() => import("react-animated-cursor"), {
-  ssr: false,
-});
 
 export default function Home({ data }: any): JSX.Element {
   const containerRef = useRef(null);
