@@ -41,10 +41,10 @@ const Work = ({ data }: any) => {
                   <Fade>
                     <h3 className="">{project.title}</h3>
                     <div
-                      className={`my-5  transition-all ease-in-out duration-700  `}
+                      className={`my-5  transition-all ease-in-out duration-500  `}
                     >
                       <div
-                        className={`my-5  transition-all ease-in-out duration-1000 ${
+                        className={`my-5  transition-all ease-in-out duration-500 ${
                           index % 2 == 0
                             ? "lg:group-hover:translate-x-3"
                             : "lg:group-hover:-translate-x-3"
@@ -111,8 +111,8 @@ const Work = ({ data }: any) => {
                       <div
                         className={`${
                           index % 2 == 0
-                            ? "lg:translate-x-3 lg:group-hover:translate-x-0 lg:transition-transform lg:ease-in-out lg:duration-1000"
-                            : "lg:-translate-x-3 lg:group-hover:translate-x-0 lg:transition-transform lg:ease-in-out lg:duration-1000"
+                            ? "lg:translate-x-3 lg:group-hover:translate-x-0 lg:transition-transform lg:ease-in-out lg:duration-500"
+                            : "lg:-translate-x-3 lg:group-hover:translate-x-0 lg:transition-transform lg:ease-in-out lg:duration-500"
                         }`}
                       >
                         <Image src={project.image} width="1920" height="1020" />

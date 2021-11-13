@@ -23,8 +23,8 @@ export default function Home({ data }: any): JSX.Element {
           tablet: {
             smooth: true,
           },
-          multiplier: 0.6,
-          lerp: 0.06,
+          multiplier: 0.7,
+          lerp: 0.1,
         }}
         watch={[]}
         containerRef={containerRef}
@@ -50,9 +50,9 @@ export default function Home({ data }: any): JSX.Element {
         selectors={["antValidCssSelector01", "antValidCssSelector02"]}
         // Optionals
         fillColor="#fff"
-        strokeColor="#fff"
-        strokeWidth={1}
-        smoothness={0.15}
+        strokeColor="rgba(255,255,255,0.1)"
+        strokeWidth={20}
+        smoothness={0.2}
         circleRadius={40}
       />
     </div>

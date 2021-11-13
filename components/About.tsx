@@ -22,7 +22,7 @@ const About = ({ data }: any) => {
         <div
           data-scroll
           data-scroll-direction="vertical"
-          data-scroll-speed="1.5"
+          data-scroll-speed="1.2"
           data-scroll-delay="0.4"
           data-scroll-class="appear"
           className="lg:w-4/5 lg:ml-auto mb-10"
