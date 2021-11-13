@@ -26,7 +26,7 @@
     },
     "hero": {
       "textFirst": "hi, i am moussa, a front-end developer based in paris.",
-      "textSecond": "i am available for freelance work from october.",
+      "textSecond": "I am available for freelance and remote work.",
       "textThird": "Available for Freelance",
       "textFourth": "Say Hi !",
       "text": "hi, i am moussa, a front-end developer based in paris. i am available for freelance work in october."
@@ -57,7 +57,7 @@
           "links": [
             {
               "text": "Add to Chrome",
-              "url": "https://chrome.google.com/webstore/category/extensions?hl=fr"
+              "url": "https://chrome.google.com/webstore/detail/microtrello/ncleeaphdaacjjbpikafjiondagkkdab?hl=fr&authuser=0"
             },
             {
               "text": "See Repo",
@@ -212,7 +212,7 @@
     },
     "hero": {
       "textFirst": "bonjour, je suis moussa mamadou, développeur front-end basé à paris.",
-      "textSecond": "je suis disponible pour des missions en freelance à partir octobre.",
+      "textSecond": "Je suis toujours à la recherche de nouvelles opportunités et projets.",
       "textThird": "Disponible en Freelance",
       "textFourth": "Ecris moi !",
       "text": "bonjour, je suis moussa, développeur front-end basé à paris. je suis disponible pour des missions en freelance en octobre."
@@ -242,7 +242,7 @@
           "links": [
             {
               "text": "Ajouter à Chrome",
-              "url": "https://chrome.google.com/webstore/category/extensions?hl=fr"
+              "url": "https://chrome.google.com/webstore/detail/microtrello/ncleeaphdaacjjbpikafjiondagkkdab?hl=fr&authuser=0"
             },
             {
               "text": "Voir le repo",
@@ -368,7 +368,7 @@
     "contact": {
       "mail": "moussa.mamadou@outlook.com",
       "title": "Contactez moi",
-      "text": "<p>Je suis toujours intéressé à par les nouveaux projets, alors n’hésitez pas à me contacter.</p><p>Je suis ouvert au mission en freelance et au poste à distance.</p>"
+      "text": "<p>Je suis toujours intéressé par les nouveaux projets, alors n’hésitez pas à me contacter.</p>"
     }
   }
 }
